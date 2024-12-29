@@ -64,6 +64,6 @@ Kontribusi terbuka untuk semua! Jika Anda ingin menambahkan fitur baru atau memp
 Proyek ini dilisensikan di bawah **MIT License**.
 
 ---
-**Dibuat dengan ❤️ oleh [Nama Anda]**
+**Dibuat dengan ❤️ oleh Ismaindra**
 
 *Terima kasih telah menggunakan sistem ini!*
